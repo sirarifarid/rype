@@ -1,0 +1,19 @@
+{
+  "name": "rype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.9.2",
+    "rype": "^1.0.16",
+    "valibot": "^0.12.0",
+    "yup": "^1.2.0",
+    "zod": "^3.22.1"
+  }
+}
